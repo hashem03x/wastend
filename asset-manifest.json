@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/wastend/static/css/main.fc339b1c.css",
+    "main.js": "/wastend/static/js/main.9c405b04.js",
+    "static/js/787.0be52250.chunk.js": "/wastend/static/js/787.0be52250.chunk.js",
+    "static/media/userbanner.jpg": "/wastend/static/media/userbanner.b8315ae8e3c1924e2ff8.jpg",
+    "static/media/bakeryShop.png": "/wastend/static/media/bakeryShop.d7081599abfd97bc17c0.png",
+    "static/media/grocery2.webp": "/wastend/static/media/grocery2.58e39e8bc91f91fd1ada.webp",
+    "static/media/bakeryShop2.png": "/wastend/static/media/bakeryShop2.bc32bc57eb90163d0968.png",
+    "static/media/Brot.jpg": "/wastend/static/media/Brot.c43945b80546efe45d02.jpg",
+    "static/media/grocery3.png": "/wastend/static/media/grocery3.49bd9e683978d09ca47e.png",
+    "static/media/bakery.jpg": "/wastend/static/media/bakery.3531a009e4a1661bcc0f.jpg",
+    "static/media/cooking.jpg": "/wastend/static/media/cooking.662c86bc4fc0f5a8291a.jpg",
+    "static/media/sideImage.png": "/wastend/static/media/sideImage.9d2878a548db0a6a269d.png",
+    "static/media/restaurant2.webp": "/wastend/static/media/restaurant2.e30a2ef60e2f05a76463.webp",
+    "static/media/restaurant.jfif": "/wastend/static/media/restaurant.b055c524d73cbb9764ed.jfif",
+    "static/media/grocery1.jpg": "/wastend/static/media/grocery1.d1344c4cbb640962c59f.jpg",
+    "static/media/careersBanner.jpg": "/wastend/static/media/careersBanner.2d55e0f0423c303338df.jpg",
+    "static/media/superMarket.jfif": "/wastend/static/media/superMarket.7d74476eccc0934d282d.jfif",
+    "static/media/restaurant3.webp": "/wastend/static/media/restaurant3.ccfd20e09f4345c0bf54.webp",
+    "static/media/cashier.jpg": "/wastend/static/media/cashier.747c6a994f9dffb70a8a.jpg",
+    "static/media/dashboard-card-img.jpg": "/wastend/static/media/dashboard-card-img.a7d3e9ededb132f370e2.jpg",
+    "static/media/greet.webp": "/wastend/static/media/greet.47e829f9c8d769242739.webp",
+    "static/media/earth1.jpg": "/wastend/static/media/earth1.5d62e397f43c399b4577.jpg",
+    "static/media/Google-Play-and-App-Store.webp": "/wastend/static/media/Google-Play-and-App-Store.15e2d89d834f8589f567.webp",
+    "static/media/app store.svg": "/wastend/static/media/app store.c192f2fdf7eaf0429cb6b8e9565177a2.svg",
+    "static/media/google play.svg": "/wastend/static/media/google play.11ee92b920fa28fae8596587d80245f7.svg",
+    "index.html": "/wastend/index.html",
+    "main.fc339b1c.css.map": "/wastend/static/css/main.fc339b1c.css.map",
+    "main.9c405b04.js.map": "/wastend/static/js/main.9c405b04.js.map",
+    "787.0be52250.chunk.js.map": "/wastend/static/js/787.0be52250.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc339b1c.css",
+    "static/js/main.9c405b04.js"
+  ]
+}
